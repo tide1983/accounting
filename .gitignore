@@ -1,0 +1,12 @@
+# IDE files
+.idea/
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
